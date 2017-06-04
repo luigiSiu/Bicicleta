@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Bicileta</string>
-    <string name="title_activity_maps">Bicileta</string>
+    <string name="app_name">Bicicleta</string>
+    <string name="title_activity_maps">Bicicleta</string>
 
     <!--    Permissions    -->
-    <string name="location_permission_denied">Aquesta aplicació requereix permisos de localització per poder activar la meva ubicació. Torneu-ho de nou per permetre l'accés a utilitzar la ubicació. Si el permís ha estat denegat de forma permanent, es pot activar des d'Ajustos del sistema > Aplicacions > 'Bicicleta'.</string>
-    <string name="permission_required_toast">Es requereix el permís de localització per aquesta aplicació.</string>
-    <string name="permission_rationale_location">Es requereix accés al servei de localització per a utilitzar la característica de 'la meva ubicació', que mostra la seva ubicació actual al mapa.</string>
+    <string name="location_permission_denied">Aquesta aplicaci\ó requereix permisos de localitzaci\ó per poder activar la meva ubicaci\ó. Torneu-ho de nou per permetre l\'acc\és a utilitzar la ubicaci\ó. Si el perm\ís ha estat denegat de forma permanent, es pot activar des d\'Ajustos del sistema > Aplicacions > \'Bicicleta\'.</string>
+    <string name="permission_required_toast">Es requereix el perm\ís de localitzaci\ó per aquesta aplicaci\ó.</string>
+    <string name="permission_rationale_location">Es requereix accés al servei de localitzaci\ó per a utilitzar la característica de \'la meva ubicaci\ó\', que mostra la seva ubicaci\ó actual al mapa.</string>
 </resources>
