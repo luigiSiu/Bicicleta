@@ -1,2 +1,2 @@
-# Bicileta
+# Bicicleta
 Bicicleta Android app
