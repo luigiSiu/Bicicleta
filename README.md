@@ -1,2 +1,0 @@
-# Bicicleta
-Bicicleta Android app
