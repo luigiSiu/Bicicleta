@@ -247,8 +247,8 @@ class BicicletaActivity : AppCompatActivity(), OnMapReadyCallback,
             val lineoption = PolylineOptions()
             for (i in result.indices) {
                 lineoption.addAll(result[i])
-                lineoption.width(10f)
-                lineoption.color(Color.BLUE)
+                lineoption.width(15f)
+                lineoption.color(Color.CYAN)
                 lineoption.geodesic(true)
             }
             map.addPolyline(lineoption)
